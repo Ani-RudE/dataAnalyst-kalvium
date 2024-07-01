@@ -2,9 +2,7 @@
 
 ### 1. BJP’s Performance 
 The 2024 Lok Sabha elections saw unprecedented voter engagement, with over 642 
-million voters participating. This record-breaking turnout was highlighted by the 
-highest-ever female voter participation, indicating a significant shift in the political 
-engagement of women in India. The Bharatiya Janata Party (BJP) capitalized on this 
+million voters participating. The Bharatiya Janata Party (BJP) capitalized on this 
 momentum, leveraging its extensive campaign strategies and grassroots efforts to 
 mobilize voters across the country. Despite the high voter turnout, the BJP faced mixed 
 results, reflecting the complexities of India's diverse electoral landscape.
